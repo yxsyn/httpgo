@@ -14,5 +14,5 @@ Config.json
 ```
 
 # Features
-- [x] Working on some new features
-- [ ] Added config support :tada:
+- [x] + config.json
+- [x] + Ratelimiting
